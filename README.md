@@ -54,7 +54,8 @@ From the charts, Google shows a steady upward trend, reflecting strong and consi
 
 The heatmaps reveal that the Open, Close, High, and Low prices for all stocks are almost perfectly correlated, with values close to 1.00, indicating a strong linear relationship. For Google and Microsoft, the Volume has a moderate negative correlation with price metrics, around -0.46 to -0.47, suggesting higher trading volumes might slightly lower prices. Apple, Amazon, and Tesla also show a strong connection among price metrics, but their Volume correlations appear negligible. Overall, these patterns highlight consistent trends in stock price movements with slight variations in Volume dynamics across companies.
 
-![image](https://github.com/user-attachments/assets/74ec9fc3-9cb6-4c32-84eb-4966569b4207)
+![Screenshot 2025-01-25 114936](https://github.com/user-attachments/assets/7347fbfd-0b0b-47ae-bf2a-fc01c6d08a61)
+
 
 
 # Key Performance Indicator:
