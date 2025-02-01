@@ -5,20 +5,20 @@ In the project analyzing stock price performance from 2020 to 2025, Tesla (TSLA)
 
 # Project Goals
 
-• To analyze historical stock price data of Google, Apple, Microsoft, Tesla, and Amazon to identify trends and patterns.
-•	To evaluate the performance and volatility of each stock using key financial metrics such as daily returns and cumulative returns.
-•	To identify unique patterns and behaviors in the stock prices of each company.
-•  To create meaningful visualizations for better interpretation of stock price movements over time.
+- To analyze historical stock price data of Google, Apple, Microsoft, Tesla, and Amazon to identify trends and patterns.
+-	To evaluate the performance and volatility of each stock using key financial metrics such as daily returns and cumulative returns.
+-	To identify unique patterns and behaviors in the stock prices of each company.
+-  To create meaningful visualizations for better interpretation of stock price movements over time.
 
 # Data Structure Overview:
 
 For this project, the data is organized in a tabular format where each row represents a daily record for the stocks of Google, Apple, Microsoft, Tesla, and Amazon. The key columns in the dataset include:
-•	Date: The specific date for each stock price entry.
-•	Open Price: The price at which the stock opened for trading.
-•	Close Price: The closing price of the stock at the end of the trading day.
-•	High Price: The highest price the stock reached during the day.
-•	Low Price: The lowest price the stock dropped to during the day.
-•	Volume: The total number of shares traded that day.
+-	Date: The specific date for each stock price entry.
+-	Open Price: The price at which the stock opened for trading.
+-	Close Price: The closing price of the stock at the end of the trading day.
+-	High Price: The highest price the stock reached during the day.
+-	Low Price: The lowest price the stock dropped to during the day.
+-	Volume: The total number of shares traded that day.
 
 ![image](https://github.com/user-attachments/assets/cdad06e5-9ed2-43e6-bbaa-f948082e1e6e)
 
@@ -33,11 +33,11 @@ The stock price analysis of Google, Apple, Amazon, Microsoft, and Tesla examines
 
 This project analyses the stock price performance of Google (GOOG), Microsoft (MSFT), Apple (AAPL), Tesla (TSLA), and Amazon (AMZN) from 2020 to 2025, focusing on their best and worst-performing years.
 
-•	Tesla had its best year in 2020, with a gain of over 700% due to higher electric vehicle sales and being added to the S&P 500. Its worst year was 2022, with a decline of nearly 65%, affected by economic conditions and increased competition.
-•	Amazon performed best in 2020, with a 76% increase due to higher demand during the pandemic. Its worst year was 2022, with a 50% drop due to inflation and slowing growth.
-•	Microsoft saw its best year in 2021, with a 50% increase driven by growth in cloud computing. Its worst year was 2022, with a 28% decline due to falling demand in the tech sector.
-•	Apple performed best in 2021, with a gain of 34%, supported by strong sales of its products. Its worst year was 2022, with a 27% decline caused by supply chain issues.
-•	Google had its best year in 2021, with a 65% gain from higher digital ad revenue. Its worst year was 2022, with a 39% decline due to reduced ad spending.
+-	Tesla had its best year in 2020, with a gain of over 700% due to higher electric vehicle sales and being added to the S&P 500. Its worst year was 2022, with a decline of nearly 65%, affected by economic conditions and increased competition.
+-	Amazon performed best in 2020, with a 76% increase due to higher demand during the pandemic. Its worst year was 2022, with a 50% drop due to inflation and slowing growth.
+-	Microsoft saw its best year in 2021, with a 50% increase driven by growth in cloud computing. Its worst year was 2022, with a 28% decline due to falling demand in the tech sector.
+-	Apple performed best in 2021, with a gain of 34%, supported by strong sales of its products. Its worst year was 2022, with a 27% decline caused by supply chain issues.
+-	Google had its best year in 2021, with a 65% gain from higher digital ad revenue. Its worst year was 2022, with a 39% decline due to reduced ad spending.
 This project highlights stock trends over five years and provides clear insights into their performance and market factors.
 
 ![image](https://github.com/user-attachments/assets/ac769a84-e7db-4dd3-ad85-fa5a317d9787)
@@ -78,8 +78,8 @@ Overall, all five stocks show a declining volume trend, indicating that trading 
 
 Google's stock price has seen a sharp rise, crossing 150 by 2025, while its trading volume has declined below 0.2 billion. Apple's price steadily increased beyond 200, whereas its volume dropped from 150M to below 50M. Amazon showed a fluctuating trend, with the price surging past 200 in 2025, but volume falling under 50M. Microsoft’s price remained volatile, peaking near 400, while its volume hovered around 30M. Tesla’s price surged above 300 by 2025, with volume showing an inverse pattern, dipping below 100M.
 Overall, stock prices for these major companies have shown upward momentum, whereas trading volumes have generally declined, suggesting a shift toward long-term holdings and reduced speculative trading.
-                                                           Blue – Price
-                                                           Purple - Volume
+                                                          - Blue – Price
+                                                          - Purple - Volume
                                                            
 ![image](https://github.com/user-attachments/assets/4a02f004-51c0-45d0-a11f-4cf862f3261a)
 
