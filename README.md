@@ -13,11 +13,11 @@
   - [Price Behaviour Analysis](#price-behaviour-analysis)  
   - [Correlation Analysis](#correlation-analysis)  
   - [Key Performance Indicators](#key-performance-indicators)  
-    - [Daily Percentage Change](#1.daily-percentage-change)  
-    - [Volume Trend](#2.volume-trend)  
-    - [Price to Volume Ratio](#3.price-to-volume-ratio)  
-    - [Price Growth Rate](#4.price-growth-rate)  
-    - [High and Low by Year](#5.high-and-low-by-year)  
+    - [Daily Percentage Change](#1daily-percentage-change)  
+    - [Volume Trend](#2volume-trend)  
+    - [Price to Volume Ratio](#3price-to-volume-ratio)  
+    - [Price Growth Rate](#4price-growth-rate)  
+    - [High and Low by Year](#5high-and-low-by-year)  
 - [Summary of Findings](#summary-of-findings)  
 
 
