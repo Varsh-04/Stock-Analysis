@@ -30,7 +30,7 @@ The stock price analysis of Google, Apple, Amazon, Microsoft, and Tesla examines
 
 # Insights Deep Dive:
 
-# Performance(2020 – 2025)
+## Performance(2020 – 2025)
 
 This project analyses the stock price performance of Google (GOOG), Microsoft (MSFT), Apple (AAPL), Tesla (TSLA), and Amazon (AMZN) from 2020 to 2025, focusing on their best and worst-performing years.
 
@@ -45,14 +45,14 @@ This project highlights stock trends over five years and provides clear insights
 
 
 
-# Price Behaviour Analysis:
+## Price Behaviour Analysis:
 
 From the charts, Google shows a steady upward trend, reflecting strong and consistent growth over time. Apple and Amazon have more fluctuating patterns, with overall declines suggesting recent market challenges. Microsoft shows a gradual downward trend, indicating reduced demand or performance. Tesla’s price behaviour is highly volatile, with sharp rises and falls, highlighting its sensitivity to market dynamics and investor sentiment.
 
 ![image](https://github.com/user-attachments/assets/a3c60fff-28dd-4537-ab92-983e181fe4a4)
 
 
-# Correlation Analysis:
+## Correlation Analysis:
 
 The heatmaps reveal that the Open, Close, High, and Low prices for all stocks are almost perfectly correlated, with values close to 1.00, indicating a strong linear relationship. For Google and Microsoft, the Volume has a moderate negative correlation with price metrics, around -0.46 to -0.47, suggesting higher trading volumes might slightly lower prices. Apple, Amazon, and Tesla also show a strong connection among price metrics, but their Volume correlations appear negligible. Overall, these patterns highlight consistent trends in stock price movements with slight variations in Volume dynamics across companies.
 
@@ -60,7 +60,7 @@ The heatmaps reveal that the Open, Close, High, and Low prices for all stocks ar
 
 
 
-# Key Performance Indicator:
+## Key Performance Indicator:
 
 ## 1.Daily Percentage Change:
  
