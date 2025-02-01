@@ -62,14 +62,14 @@ The heatmaps reveal that the Open, Close, High, and Low prices for all stocks ar
 
 # Key Performance Indicator:
 
-1.Daily Percentage Change:
+## 1.Daily Percentage Change:
  
 The daily percentage changes of Google, Apple, Amazon, Microsoft, and Tesla stocks exhibit varying volatility over time. Google shows fluctuations mostly within ±5%, with occasional spikes beyond ±7.5%, reflecting its relatively stable performance. Apple and Microsoft have narrower ranges, generally within ±4%, indicating lower volatility. Amazon displays a slightly wider range, reaching ±6%, while Tesla exhibits the most volatility, with changes frequently exceeding ±10%, highlighting its high-risk, high-reward nature. These variations underline the differing risk profiles of these stocks, with Tesla being the most volatile and Apple/Microsoft the least.
 
 ![image](https://github.com/user-attachments/assets/00032121-eaa5-4f5a-bfe9-2bb44e509653)
 
 
-2.Volume Trend:
+## 2.Volume Trend:
 
 Google’s trading volume saw a sharp rise early on, followed by a steady decline over time, reaching low levels in recent years. Apple had a big spike around 2020 but then experienced a downward trend with fluctuations. Amazon's volume has been consistently dropping, despite a slight uptick around 2022. Microsoft followed a similar pattern, with an initial decline, a brief recovery, and then a further drop. Tesla had a major peak in 2020, followed by a sharp drop, a small recovery in 2023, and then another decline.
 Overall, all five stocks show a declining volume trend, indicating that trading activity has reduced over time, possibly due to market maturity, investor sentiment shifts, or reduced short-term speculation.
@@ -77,17 +77,18 @@ Overall, all five stocks show a declining volume trend, indicating that trading 
 ![image](https://github.com/user-attachments/assets/8805de09-e4d2-4d47-8ab9-641df2448b54)
 
 
-3.Price to Volume Ratio:
+## 3.Price to Volume Ratio:
 
 Google's stock price has seen a sharp rise, crossing 150 by 2025, while its trading volume has declined below 0.2 billion. Apple's price steadily increased beyond 200, whereas its volume dropped from 150M to below 50M. Amazon showed a fluctuating trend, with the price surging past 200 in 2025, but volume falling under 50M. Microsoft’s price remained volatile, peaking near 400, while its volume hovered around 30M. Tesla’s price surged above 300 by 2025, with volume showing an inverse pattern, dipping below 100M.
 Overall, stock prices for these major companies have shown upward momentum, whereas trading volumes have generally declined, suggesting a shift toward long-term holdings and reduced speculative trading.
-                                                          - Blue – Price
-                                                          - Purple - Volume
+
+- Blue – Price
+- Purple - Volume
                                                            
 ![image](https://github.com/user-attachments/assets/4a02f004-51c0-45d0-a11f-4cf862f3261a)
 
 
-4.Price Growth Rate:
+## 4.Price Growth Rate:
 
 The stock prices of major tech companies have shown significant growth from 2020 to 2025. Google’s price surged past 200, maintaining a steady upward trend. Apple exhibited a consistent rise, reaching approximately 200 by 2025. Amazon, despite fluctuations, crossed 200, reflecting volatility in its growth. Microsoft steadily increased, touching nearly 400, making it one of the strongest performers. Tesla experienced a dip around 2023 but recovered sharply, surpassing 400 in 2025.
 Overall, all five stocks have shown a positive price trend, with Microsoft and Tesla achieving the highest growth, while Amazon displayed more volatility in its price movement.
@@ -95,7 +96,7 @@ Overall, all five stocks have shown a positive price trend, with Microsoft and T
 ![image](https://github.com/user-attachments/assets/e2ca9275-f382-4edf-a8d4-ce4c5339d267)
 
 
-5.High and Low by Year:
+## 5.High and Low by Year:
 
 The line charts show the yearly high and low stock prices of Google, Apple, Amazon, Microsoft, and Tesla from 2020 to 2025. Google's stock saw a steep rise, reaching over $200 by 2025. Apple's high price increased steadily, surpassing $500 in 2025. Amazon's stock fluctuated but ended near $500 in 2025. Microsoft's stock showed strong growth, with highs exceeding $1,000. Tesla's stock price also surged significantly, surpassing $500 in 2025.
 
