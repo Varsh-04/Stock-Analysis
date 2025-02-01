@@ -2,21 +2,24 @@
 
 ## Table of Contents  
 
-- [Project Overview](#Project-Overview)  
-- [Project Goals](#Project-Goals)  
-- [Data Structure Overview](#Data-Structure-Overview)  
-- [Executive Summary](#Executive-Summary)  
-- [Insights Deep Dive](#Insights-Deep-Dive)  
-  - [Performance (2020 – 2025)](#Performance-2020--2025)  
-  - [Price Behaviour Analysis](#Price-Behaviour-Analysis)  
-  - [Correlation Analysis](#Correlation-Analysis)  
-  - [Key Performance Indicators](#Key-Performance-Indicators)  
-    - [Daily Percentage Change](#Daily-Percentage-Change)  
-    - [Volume Trend](#Volume-Trend)  
-    - [Price to Volume Ratio](#Price-to-Volume-Ratio)  
-    - [Price Growth Rate](#Price-Growth-Rate)  
-    - [High and Low by Year](#High-and-Low-by-Year)  
-- [Summary of Findings](#Summary-of-Findings)  
+## Table of Contents  
+
+- [Project Overview](#project-overview)  
+- [Project Goals](#project-goals)  
+- [Data Structure Overview](#data-structure-overview)  
+- [Executive Summary](#executive-summary)  
+- [Insights Deep Dive](#insights-deep-dive)  
+  - [Performance (2020 – 2025)](#performance-2020--2025)  
+  - [Price Behaviour Analysis](#price-behaviour-analysis)  
+  - [Correlation Analysis](#correlation-analysis)  
+  - [Key Performance Indicators](#key-performance-indicators)  
+    - [Daily Percentage Change](#daily-percentage-change)  
+    - [Volume Trend](#volume-trend)  
+    - [Price to Volume Ratio](#price-to-volume-ratio)  
+    - [Price Growth Rate](#price-growth-rate)  
+    - [High and Low by Year](#high-and-low-by-year)  
+- [Summary of Findings](#summary-of-findings)  
+
 
 
 
