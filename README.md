@@ -5,7 +5,7 @@ In the project analyzing stock price performance from 2020 to 2025, Tesla (TSLA)
 
 # Project Goals
 
-•  To analyze historical stock price data of Google, Apple, Microsoft, Tesla, and Amazon to identify trends and patterns.
+• To analyze historical stock price data of Google, Apple, Microsoft, Tesla, and Amazon to identify trends and patterns.
 •	To evaluate the performance and volatility of each stock using key financial metrics such as daily returns and cumulative returns.
 •	To identify unique patterns and behaviors in the stock prices of each company.
 •  To create meaningful visualizations for better interpretation of stock price movements over time.
