@@ -20,7 +20,8 @@ For this project, the data is organized in a tabular format where each row repre
 -	Low Price: The lowest price the stock dropped to during the day.
 -	Volume: The total number of shares traded that day.
 
-![image](https://github.com/user-attachments/assets/cdad06e5-9ed2-43e6-bbaa-f948082e1e6e)
+![Screenshot 2025-01-24 121758](https://github.com/user-attachments/assets/714559eb-cead-4360-a2fb-d2c0618c037a)
+
 
 
 # Executive Summary:
@@ -40,7 +41,8 @@ This project analyses the stock price performance of Google (GOOG), Microsoft (M
 -	Google had its best year in 2021, with a 65% gain from higher digital ad revenue. Its worst year was 2022, with a 39% decline due to reduced ad spending.
 This project highlights stock trends over five years and provides clear insights into their performance and market factors.
 
-![image](https://github.com/user-attachments/assets/ac769a84-e7db-4dd3-ad85-fa5a317d9787)
+![Screenshot 2025-01-25 112900](https://github.com/user-attachments/assets/e55f9ccc-dd0a-4f6c-84a6-b6c9b2bd6bf2)
+
 
 
 # Price Behaviour Analysis:
