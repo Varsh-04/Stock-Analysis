@@ -9,7 +9,7 @@
 - [Data Structure Overview](#data-structure-overview)  
 - [Executive Summary](#executive-summary)  
 - [Insights Deep Dive](#insights-deep-dive)  
-  - [Performance (2020 – 2025)](#performanc(2020--2025)) 
+  - [Performance (2020 – 2025)](#performance2020--2025) 
   - [Price Behaviour Analysis](#price-behaviour-analysis)  
   - [Correlation Analysis](#correlation-analysis)  
   - [Key Performance Indicators](#key-performance-indicators)  
