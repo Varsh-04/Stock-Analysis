@@ -1,6 +1,5 @@
 # Stock-Analysis
-
-## Table of Contents  
+ 
 
 ## Table of Contents  
 
