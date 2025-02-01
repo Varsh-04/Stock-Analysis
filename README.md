@@ -1,7 +1,7 @@
 # Stock-Analysis
 # Project Overview
 
-In the project analyzing stock price performance from 2020 to 2025, Tesla (TSLA) saw a peak increase of over 700% in 2020, followed by a decline of 65% in 2022. Amazon (AMZN) achieved a 76% gain in 2020 but fell 50% in 2022. Apple (AAPL) peaked at a 34% increase in 2021, declining 27% in 2022. Microsoft (MSFT) rose by 50% in 2021 but decreased by 28% the following year. Google (GOOG) recorded a 65% gain in 2021, with a 39% decline in 2022. Overall, trading volumes surged in 2020, indicating strong investor confidence, while 2022 marked a period of significant volatility across all stocks, driven by economic pressures.
+In this project analyzing stock price performance from 2020 to 2025, Tesla (TSLA) saw a peak increase of over 700% in 2020, followed by a decline of 65% in 2022. Amazon (AMZN) achieved a 76% gain in 2020 but fell 50% in 2022. Apple (AAPL) peaked at a 34% increase in 2021, declining 27% in 2022. Microsoft (MSFT) rose by 50% in 2021 but decreased by 28% the following year. Google (GOOG) recorded a 65% gain in 2021, with a 39% decline in 2022. Overall, trading volumes surged in 2020, indicating strong investor confidence, while 2022 marked a period of significant volatility across all stocks, driven by economic pressures.
 
 # Project Goals
 
@@ -12,7 +12,7 @@ In the project analyzing stock price performance from 2020 to 2025, Tesla (TSLA)
 
 # Data Structure Overview:
 
-For this project, the data is organized in a tabular format where each row represents a daily record for the stocks of Google, Apple, Microsoft, Tesla, and Amazon. The key columns in the dataset include:
+In this project, the data is organized in a tabular format where each row represents a daily record for the stocks of Google, Apple, Microsoft, Tesla, and Amazon. The key columns in the dataset include:
 -	Date: The specific date for each stock price entry.
 -	Open Price: The price at which the stock opened for trading.
 -	Close Price: The closing price of the stock at the end of the trading day.
@@ -34,11 +34,11 @@ The stock price analysis of Google, Apple, Amazon, Microsoft, and Tesla examines
 
 This project analyses the stock price performance of Google (GOOG), Microsoft (MSFT), Apple (AAPL), Tesla (TSLA), and Amazon (AMZN) from 2020 to 2025, focusing on their best and worst-performing years.
 
--	Tesla had its best year in 2020, with a gain of over 700% due to higher electric vehicle sales and being added to the S&P 500. Its worst year was 2022, with a decline of nearly 65%, affected by economic conditions and increased competition.
--	Amazon performed best in 2020, with a 76% increase due to higher demand during the pandemic. Its worst year was 2022, with a 50% drop due to inflation and slowing growth.
--	Microsoft saw its best year in 2021, with a 50% increase driven by growth in cloud computing. Its worst year was 2022, with a 28% decline due to falling demand in the tech sector.
--	Apple performed best in 2021, with a gain of 34%, supported by strong sales of its products. Its worst year was 2022, with a 27% decline caused by supply chain issues.
--	Google had its best year in 2021, with a 65% gain from higher digital ad revenue. Its worst year was 2022, with a 39% decline due to reduced ad spending.
+-	Tesla had its **best** year in 2020, with a gain of over 700% due to higher electric vehicle sales and being added to the S&P 500. Its **worst** year was 2022, with a decline of nearly 65%, affected by economic conditions and increased competition.
+-	Amazon performed **best** in 2020, with a 76% increase due to higher demand during the pandemic. Its **worst** year was 2022, with a 50% drop due to inflation and slowing growth.
+-	Microsoft saw its **best** year in 2021, with a 50% increase driven by growth in cloud computing. Its **worst** year was 2022, with a 28% decline due to falling demand in the tech sector.
+-	Apple performed **best** in 2021, with a gain of 34%, supported by strong sales of its products. Its **worst** year was 2022, with a 27% decline caused by supply chain issues.
+-	Google had its **best** year in 2021, with a 65% gain from higher digital ad revenue. Its **worst** year was 2022, with a 39% decline due to reduced ad spending.
 This project highlights stock trends over five years and provides clear insights into their performance and market factors.
 
 ![Screenshot 2025-01-25 112900](https://github.com/user-attachments/assets/e55f9ccc-dd0a-4f6c-84a6-b6c9b2bd6bf2)
