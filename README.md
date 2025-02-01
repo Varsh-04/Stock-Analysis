@@ -1,16 +1,16 @@
 # Stock-Analysis
-#Project Overview
+# Project Overview
 
 In the project analyzing stock price performance from 2020 to 2025, Tesla (TSLA) saw a peak increase of over 700% in 2020, followed by a decline of 65% in 2022. Amazon (AMZN) achieved a 76% gain in 2020 but fell 50% in 2022. Apple (AAPL) peaked at a 34% increase in 2021, declining 27% in 2022. Microsoft (MSFT) rose by 50% in 2021 but decreased by 28% the following year. Google (GOOG) recorded a 65% gain in 2021, with a 39% decline in 2022. Overall, trading volumes surged in 2020, indicating strong investor confidence, while 2022 marked a period of significant volatility across all stocks, driven by economic pressures.
 
-#Project Goals
+# Project Goals
 
 •  To analyze historical stock price data of Google, Apple, Microsoft, Tesla, and Amazon to identify trends and patterns.
 •	To evaluate the performance and volatility of each stock using key financial metrics such as daily returns and cumulative returns.
 •	To identify unique patterns and behaviors in the stock prices of each company.
 •  To create meaningful visualizations for better interpretation of stock price movements over time.
 
-#Data Structure Overview:
+# Data Structure Overview:
 
 For this project, the data is organized in a tabular format where each row represents a daily record for the stocks of Google, Apple, Microsoft, Tesla, and Amazon. The key columns in the dataset include:
 •	Date: The specific date for each stock price entry.
@@ -21,13 +21,13 @@ For this project, the data is organized in a tabular format where each row repre
 •	Volume: The total number of shares traded that day.
 ![image](https://github.com/user-attachments/assets/cdad06e5-9ed2-43e6-bbaa-f948082e1e6e)
 
-#Executive Summary:
+# Executive Summary:
 
 The stock price analysis of Google, Apple, Amazon, Microsoft, and Tesla examines historical trends, patterns, and key metrics such as opening prices, closing prices, and trading volumes from 2020 to 2025. The study highlights significant growth in Microsoft and Tesla, with highs surpassing $1,000 and $500, respectively, while Google saw a steep upward trend. Apple and Amazon exhibited steady yet fluctuating movements, reflecting market dynamics. This analysis provides insights into stock performance.
 
-#Insights Deep Dive:
+# Insights Deep Dive:
 
-Performance(2020 – 2025)
+# Performance(2020 – 2025)
 
 This project analyses the stock price performance of Google (GOOG), Microsoft (MSFT), Apple (AAPL), Tesla (TSLA), and Amazon (AMZN) from 2020 to 2025, focusing on their best and worst-performing years.
 
@@ -39,17 +39,17 @@ This project analyses the stock price performance of Google (GOOG), Microsoft (M
 This project highlights stock trends over five years and provides clear insights into their performance and market factors.
 ![image](https://github.com/user-attachments/assets/ac769a84-e7db-4dd3-ad85-fa5a317d9787)
 
-Price Behaviour Analysis:
+# Price Behaviour Analysis:
 
 From the charts, Google shows a steady upward trend, reflecting strong and consistent growth over time. Apple and Amazon have more fluctuating patterns, with overall declines suggesting recent market challenges. Microsoft shows a gradual downward trend, indicating reduced demand or performance. Tesla’s price behaviour is highly volatile, with sharp rises and falls, highlighting its sensitivity to market dynamics and investor sentiment.
 ![image](https://github.com/user-attachments/assets/a3c60fff-28dd-4537-ab92-983e181fe4a4)
 
-Correlation Analysis:
+# Correlation Analysis:
 
 The heatmaps reveal that the Open, Close, High, and Low prices for all stocks are almost perfectly correlated, with values close to 1.00, indicating a strong linear relationship. For Google and Microsoft, the Volume has a moderate negative correlation with price metrics, around -0.46 to -0.47, suggesting higher trading volumes might slightly lower prices. Apple, Amazon, and Tesla also show a strong connection among price metrics, but their Volume correlations appear negligible. Overall, these patterns highlight consistent trends in stock price movements with slight variations in Volume dynamics across companies.
 ![image](https://github.com/user-attachments/assets/74ec9fc3-9cb6-4c32-84eb-4966569b4207)
 
-Key Performance Indicator:
+# Key Performance Indicator:
 
 1.Daily Percentage Change:
  
@@ -81,7 +81,7 @@ Overall, all five stocks have shown a positive price trend, with Microsoft and T
 The line charts show the yearly high and low stock prices of Google, Apple, Amazon, Microsoft, and Tesla from 2020 to 2025. Google's stock saw a steep rise, reaching over $200 by 2025. Apple's high price increased steadily, surpassing $500 in 2025. Amazon's stock fluctuated but ended near $500 in 2025. Microsoft's stock showed strong growth, with highs exceeding $1,000. Tesla's stock price also surged significantly, surpassing $500 in 2025.
 ![image](https://github.com/user-attachments/assets/35e09d16-2f3f-4a41-9342-d057bce14fac)
 
-#Summary of Findings:
+# Summary of Findings:
 
 The stock price analysis of Google, Apple, Amazon, Microsoft, and Tesla from 2020 to 2025 reveals distinct performance trends and market behaviors. Microsoft and Tesla showed the highest price growth, with Microsoft surpassing $1,000 and Tesla exceeding $500 by 2025. Price behavior analysis indicates steady growth in Apple and Amazon, while Google experienced a sharp upward trend. Correlation analysis suggests a strong relationship between tech stocks, with synchronized movements during market fluctuations. Key performance indicators highlight that daily percentage changes were most volatile for Tesla, while Microsoft led in volume trends. The price-to-volume ratio indicated strong investor interest in Google and Apple, whereas Tesla exhibited the highest price growth rate. Highs and lows by year reflected overall market sentiment, with all five stocks reaching peak values in 2025. This study provides valuable insights into stock trends, aiding investors in strategic decision-making.
 
