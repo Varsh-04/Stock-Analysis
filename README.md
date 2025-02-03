@@ -131,11 +131,6 @@ The stock price analysis of Google, Apple, Amazon, Microsoft, and Tesla from 202
 
 
 
-👉 [View Dashboard](https://app.powerbi.com/view?r=r=eyJrIjoiMzY3ZmNiNzQtMTE5NC00MGY4LTlkZjYtNTM3OGIxMjVlNmU2IiwidCI6IjY4ZWQyOTMyLWU2ZmQtNGViYS04NjQ1LTAwOWY3ZTc3OWRkNCJ9")
-
-
-
-
 
 
 
